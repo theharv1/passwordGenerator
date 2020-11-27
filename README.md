@@ -10,7 +10,7 @@ A password generator to generate unique passwords
 * javascript
 
 ## Website
-https://theharv1.github.io/Shawn-portfolio/index.html
+https://theharv1.github.io/passwordGenerator/index.html
 
 ## Contribution
 Made by Shawn 
